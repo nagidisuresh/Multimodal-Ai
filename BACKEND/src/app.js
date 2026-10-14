@@ -44,6 +44,7 @@ app.use(cors({
       origin === allowed ||
       origin.includes('localhost') ||
       origin.includes('127.0.0.1') ||
+      origin.endsWith('.netlify.app') ||
       origin.endsWith('.vercel.app') ||
       origin.endsWith('.onrender.com')
     ) {
