@@ -1,0 +1,7 @@
+HealthLens EHR Record:
+Patient ID: HL-58291
+Age: 58 | Sex: Male
+Chief Complaint: 3-week progressive dyspnea and persistent non-productive cough.
+Auscultation: Bilateral basal inspiratory crackles, more pronounced in right lower zone.
+Chest X-Ray Findings: Focal patchy alveolar opacification in the right lower lobe.
+Disclaimer: Decision-support tool, not a diagnosis. Requires review by a qualified medical professional.

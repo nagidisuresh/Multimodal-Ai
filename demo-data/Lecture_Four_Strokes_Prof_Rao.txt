@@ -1,0 +1,17 @@
+OmniMind AI Lecture Transcript
+Instructor: Prof. K. V. Rao
+Course: Advanced Mechanical Systems (AMS-301)
+Duration: 08:42
+
+[00:15 - 01:05]
+Welcome back everyone. Today we are exploring the internal combustion engine.
+Specifically, why four distinct strokes are required to produce usable rotational torque.
+
+[02:15 - 03:00]
+"Notice that adiabatic compression heats the charge before the spark triggers.
+If compression ratio exceeds 11:1 on standard unleaded fuel, you run the risk of auto-ignition knock.
+At 02:15 in your lab diagrams, observe how both intake and exhaust valves remain sealed."
+
+[05:20 - 06:10]
+When the spark discharges right before top dead center, rapid chemical deflagration pushes the piston downwards.
+This is the only stroke in the cycle that actually generates power.

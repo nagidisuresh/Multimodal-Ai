@@ -1,0 +1,5 @@
+RoadSense Simulation Telemetry Log:
+Time: 00:12 -> Visual: Detected 2 pedestrians crossing at zebra junction (ROI: [38, 55, 22, 32]). Advisory: 0 km/h.
+Time: 00:18 -> Acoustic: 850 Hz peak emergency siren acoustic waveform detected from rear-right quadrant.
+Time: 00:24 -> Visual: Approaching ambulance emergency strobe verified in right rear mirror.
+Advisory: Yield right shoulder lane smoothly.

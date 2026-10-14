@@ -1,0 +1,8 @@
+VisionVoice OCR Inspection Data:
+MEDICATION: PARACETAMOL TABLETS IP 500mg
+BATCH: B7492A
+EXPIRY: 11/2027
+MFG LIC: G/25/1892
+DOSAGE: 1 tablet every 6 to 8 hours as prescribed by physician. Maximum 4000mg in 24 hours.
+WARNING: Overdose may cause severe liver damage or allergic skin reaction.
+STORAGE: Store protected from light and moisture at a temperature not exceeding 30°C.
